@@ -14,7 +14,8 @@ BeautifulSoup (for HTML parsing)
 
 pandas (for data structuring and analysis)
 
-# Reference: Based on guidance and examples from the IBM Professional Certificate in Data Science.
+# Reference: 
+Based on guidance and examples from the IBM Professional Certificate in Data Science.
 
 # What You’ll Learn
 How to send HTTP requests and fetch webpage content
